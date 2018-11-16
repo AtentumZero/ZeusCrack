@@ -12,13 +12,20 @@ md5, sha1, sha224, sha256, sha384, sha512"
   
 # Expected Wordlist format is:
   Test
+  
   Test123
+  
   Password!
   
 # Python dependencies
   StringIO
+  
   getopt
+  
   hashlib
+  
   sys
+  
   os
+  
   time
